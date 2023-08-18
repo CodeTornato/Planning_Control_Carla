@@ -12,4 +12,4 @@ If you wish to test you planning and control algorithm in carla-simulator, then 
 (like get host state information function include x,y,v,a,heading) by implment some function using carla api, and you need to prarpe a scene where 
 your alogrithms will be test.
 
-and also explore in a real time system,how to schedule planning and control, does control run 10ms every time, and planning 100ms,and how to arrange them,
+and also explore in a real time system,how to schedule planning and control in order to let them work togther,  control run 10ms every time, and planning 100ms,and how to arrange them
