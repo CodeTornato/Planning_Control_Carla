@@ -15,3 +15,4 @@ If you wish to test you planning and control algorithm in carla-simulator, then 
 your alogrithms will be test.
 
 and also explore in a real time system,how to schedule planning and control in order to let them work togther,  control run 10ms every time, and planning 100ms,and how to arrange them
+
