@@ -1,5 +1,7 @@
 # Planning_Control_Carla
 
+its a method for varification of the planning algorithm.
+
 branch -- main test
 
 Planning-Control Test With Carla-Simulator
