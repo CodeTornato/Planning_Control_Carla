@@ -12,7 +12,6 @@ if you have your own planning alogrithm, you can use similiar loggic to test you
 Map: Town03
 
 
-
 Tested Object: Planning and Control Algorithms
 
 have obstacle: yes 
