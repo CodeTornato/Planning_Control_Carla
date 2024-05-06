@@ -1,6 +1,6 @@
 # Planning_Control_Carla
 
-it's a method for varification of the planning algorithm.
+this is an example for varification of the planning algorithm.
 
 
 branch -- main test
