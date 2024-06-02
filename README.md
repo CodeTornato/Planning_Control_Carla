@@ -23,5 +23,4 @@ and also explore in a real time system,how to schedule planning and control in o
 Reference Line Generation: 
 Reference Line vector of reference point(x,y,heading,kappa) is recorded with auto pilot in carla for this scenario.
 
-not complete.
-...
+not complete yet...
